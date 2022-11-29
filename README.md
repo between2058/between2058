@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://between2058.github.io/)
 
-<h3 align="left">My Latest Article</h3>
+<h3 align="left">My Latest Project</h3>
 
 <!-- My Latest Project:START -->
 - [當吉他遇見AI--吉他和弦神偷](https://youtu.be/kwQ3WmHKLTg)
