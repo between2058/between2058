@@ -10,4 +10,4 @@
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/%E8%88%9C%E7%A8%8B-%E5%BC%B5-629524186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/johnny-chang-629524186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
